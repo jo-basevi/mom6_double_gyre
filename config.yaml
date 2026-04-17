@@ -1,5 +1,5 @@
 # PBS flags
-queue: express
+queue: normal
 project: tm70
 walltime: 0:30:00
 ncpus: 4
